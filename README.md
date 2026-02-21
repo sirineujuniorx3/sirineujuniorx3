@@ -31,10 +31,19 @@ Atualmente, estou em formação prática em Cibersegurança, com foco em Blue Te
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:sirineu_junior@hotmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sirineujuniorx3/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ei_____psiu/)
+<h3 align="center">Connect with me!</h3>
+
+<div align="center" style="line-height: 2.5;">
+  <a href="mailto:sirineu_junior@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF" alt="E-mail">
+  </a><br>
+  <a href="https://www.linkedin.com/in/sirineujuniorx3/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" alt="LinkedIn">
+  </a><br>
+  <a href="https://www.instagram.com/ei_____psiu/">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF" alt="Instagram">
+  </a>
+</div>
 
 #
 
