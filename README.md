@@ -33,13 +33,13 @@ Atualmente, estou em formação prática em Cibersegurança, com foco em Blue Te
 
 <h3 align="center">Connect with me!</h3>
 
-<div align="center" style="line-height: 2.5;">
+<div align="center">
   <a href="mailto:sirineu_junior@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF" alt="E-mail">
-  </a><br>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sirineujuniorx3/">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" alt="LinkedIn">
-  </a><br>
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/ei_____psiu/">
     <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF" alt="Instagram">
   </a>
