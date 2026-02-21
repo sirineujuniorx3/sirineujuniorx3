@@ -8,32 +8,37 @@
 
 #
 
-<p align="center">sou formado em Análise e Desenvolvimento de Sistemas (ADS) pelo Centro Universitário do Norte – UNINORTE e estou em transição e especialização na área de Segurança da Informação.
+<p align="center">
+Sou formado em Análise e Desenvolvimento de Sistemas (ADS) pelo Centro Universitário do Norte – UNINORTE e estou em transição e especialização na área de Segurança da Informação.
+</p>
 
+<p align="center">
 Atualmente, estou em formação prática em Cibersegurança, com foco em Blue Team e operações de SOC, desenvolvendo competências em:
+</p>
 
-🛡️ Monitoramento e resposta a incidentes
-📊 Análise de logs e eventos de segurança
-🔍 SIEM (Wazuh / ELK Stack)
-🧱 Hardening de sistemas
-🌐 Redes de computadores
-🐧 Linux e serviços
-📜 Fundamentos de LGPD e segurança da informação
-  
+<h3 align="left">Competências</h3>
+<div align="left" style="line-height: 2.2;">
+  🛡️ Monitoramento e resposta a incidentes<br>
+  📊 Análise de logs e eventos de segurança<br>
+  🔍 SIEM (Wazuh / ELK Stack)<br>
+  🧱 Hardening de sistemas<br>
+  🌐 Redes de computadores<br>
+  🐧 Linux e serviços<br>
+  📜 Fundamentos de LGPD e segurança da informação
+</div>
+
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:sirineu_junior@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sirineujuniorx3/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:sirineu_junior@hotmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sirineujuniorx3/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ei_____psiu/)
 
+#
 
-
-
-<div style="text-align: center;" align="center">
+<div style="text-align: center;">
   <h3>* GitHub Stats *</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
@@ -42,7 +47,6 @@ Atualmente, estou em formação prática em Cibersegurança, com foco em Blue Te
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
-
 
 #
 
